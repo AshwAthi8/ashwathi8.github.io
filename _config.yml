@@ -18,17 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: " Tracking Findings"
-email: 
-description: >> Insignts to my finds :D
+title: "Tracking Findings"
+email: ""
+description: >-
+  Insights to my finds :D
 
-baseurl: "/" 
+baseurl: "" 
 url: "https://ashwathi8.github.io" 
-twitter_username: Ashwathi_sasi
-github_username:  AshwAthi8
 
-# Build settings
-theme: jekyll-theme-slate
+twitter_username: "Ashwathi_sasi"
+github_username: "AshwAthi8"
+
+theme: minima
+
 plugins:
   - jekyll-feed
 
